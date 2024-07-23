@@ -4116,3 +4116,19 @@ body.is-mobile.landing .wrapper.style4 {
 body.is-mobile.landing #footer {
   background-color: #1d242a;
 }
+.linkedin-button {
+  background-color: #0077b5; /* LinkedIn's brand color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.linkedin-button:hover {
+  background-color: #005582; /* Darker shade on hover */
+}
